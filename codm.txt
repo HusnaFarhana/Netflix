@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CALLOFDUTY</title>
+    <link href="callofduty.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+ 
+  <div class="main">
+    <div class="one">
+     <video autoplay playsinline loop muted >
+       <source  src="https://callofduty.com/cdn/mw2/videos/mw2-launch-clip.mp4" type="video/mp4"  id="bgvideo"> 
+     </video>
+     <div class="header">
+       <div class="image">
+         <img src="activision_logo_white-text.png" class="logo">
+       </div>
+       <div class="buttons">
+         <button class="button">GAMES</button>
+         <button class=" button">ABOUT</button>
+         <button class="button">CAREERS</button>
+         <button class="button">SUPPORT</button>
+       </div>
+       <div class="log">
+         <button class="login">LOGIN</button>
+       </div>
+       <div class="sign">
+         <button class="signup">SIGN UP</button>
+       </div>
+     </div>
+     <div class="mww">
+       <img src="MW.png" alt="image/png" class="mw">
+     </div>
+     <div class="t11">
+       <p id="t1">The new era of call of duty is here!</p>
+     </div>
+     <div class="bv">
+       <button class="bn">BUY NOW</button>
+       <button class=" vs">VISIT SITE</button>
+     </div>
+     <img src="mw2cr-ESRB.jpg" alt="image/jpg" class="inf">
+   </div>
+
+
+   <div class="two">
+
+
+    
+   </div>
+   
+  </div>
+ 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    margin: 0%;
+    overflow-x: hidden;
+    
+}
+
+
+
+.header{
+    height: 39px;
+    width: 100%;
+    background-color:rgba(ff, ff, ff,0.5);
+    padding-left: 78px;
+    padding-top: 14px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid white;
+    background-color:rgba(0, 0, 0, 0.3);
+    position: fixed;
+}
+#bgvideo{
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    left: 0;
+    right: 0;
+    top: 0;
+    
+}
+.image{
+    position: relative;
+}
+.logo{
+height: 30px;
+width: 130px;
+float: left;
+padding-right: 55px;
+}
+.button{
+    background-color: transparent;
+    color: rgb(165, 159, 159);
+    border: 0ch;
+    padding-right: 45px;
+    font-size: smaller;
+    font-weight:700;
+    float: left;
+    display: flex;
+
+}
+
+
+.signup{
+    background-color: rgba(83, 95, 167, 0.5);
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+    border-color: #0768af;
+    float: right;
+}
+.sign{
+margin-right: 100px;
+}
+.login{
+    background-color: transparent;
+    color: white;
+    font-weight: 500;
+    border-radius: 20px;
+    border-color:transparent;
+    float: right;
+    
+    
+}
+.log{
+margin-right: 100px;
+}
+
+.mww{
+    position: relative;
+    left: 148px;
+    top: 136px
+}
+.mw{
+    height: 199px;
+    width: 389px
+}
+.t11{
+    position: relative;
+    top:125px ;
+    left: 158px ;
+}
+#t1{
+    color: white;
+    font-size: 25px;
+    font-weight: 900;
+
+}
+.bv{
+    position: relative;
+    top:130px ;
+    left: 89px ;
+    
+    
+}
+.bn{
+    width: 244px;
+    height: 50px;
+    background-color: rgba(72, 91, 199, 0.4);
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 24px;
+    border-color: #0768af;
+    
+
+}
+.vs{
+    width: 210px;
+    height: 50px;
+    background-color: transparent;
+    color: white;
+    font-size: 17px;
+    font-weight: 700;
+    border-radius: 24px;
+    border-color: white;
+    margin-left: 20px;
+}
+.inf{
+    width:150px ;
+    height:60px ;
+    margin-top: 230px;
+    float: right;
+    margin-right: 5px;
+}
+.two{
+    background-color: gray;
+    width: 100%;
+    height: 500px;
+    position: relative;
+    margin-top: 1000px;
+    
+}
+
+
+

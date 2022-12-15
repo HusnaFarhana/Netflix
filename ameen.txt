@@ -1,0 +1,16 @@
+https://ameen-vv.github.io/Netflix/netflix.css
+
+
+https://ameen-vv.github.io/Netflix/
+
+
+
+TO DO:
+
+https://www.w3schools.com/html/html_images_imagemap.asp
+
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_layout_float
+
+https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1  ----display inline block inlineblock
+https://www.w3schools.com/css/tryit.asp?filename=trycss_align_transform    ?????
+https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_button
